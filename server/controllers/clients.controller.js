@@ -1,18 +1,7 @@
 /**
 * Name: clients.controller
 *
-* @author Pedro Ruiz Hidalgo
-*		  correo@pedroruizhidalgo.es
-*         @pedroruizhidalg
-*
-*		  Coding the world since 1983!
-*
-* Location: server/controllers/clients.controller
-*
-* Created:  8 Aug 2018
-*
-*
-* Description: controller for clients
+* @author Gopesh Kumar jangid
 *
 * Requirements: clients model
 *

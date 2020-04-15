@@ -1,18 +1,7 @@
 /**
 * Name: products
 *
-* @author Pedro Ruiz Hidalgo
-*		  correo@pedroruizhidalgo.es
-*         @pedroruizhidalg
-*
-*		  Coding the world since 1983!
-*
-* Location: server/models/products
-*
-* Created:  7 Aug 2018
-*
-*
-* Description: Product data model
+* @author Gopesh Kumar jangid
 *
 * Requirements: mongoose
 *

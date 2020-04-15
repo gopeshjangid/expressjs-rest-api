@@ -1,15 +1,6 @@
 /**
 * Name: product.routes
-*
-* @author Pedro Ruiz Hidalgo
-*		  correo@pedroruizhidalgo.es
-*         @pedroruizhidalg
-*
-*		  Coding the world since 1983!
-*
-* Location: server/routes/product.routes
-*
-* Created:  7 Aug 2018
+*@Author     Gopesh Kumar Jangid
 *
 *
 * Description: routes declaration for products
@@ -39,13 +30,7 @@ router.get('/activate/:id', productsController.activateProduct);
 router.get('/deactivate/:id', productsController.deactivateProduct);
 
 router.put('/:id', productsController.editProduct);
-/*
-    send as request body:
 
-    {
-        "image": "https://unsplash.com/photos/yC-Yzbqy7PY"
-    }
-*/
 router.put('/addimage/:id', productsController.addImage);
 
 router.post('/', productsController.createProduct);

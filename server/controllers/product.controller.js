@@ -1,20 +1,7 @@
 /**
 * Name: product.controller
 *
-* @author Pedro Ruiz Hidalgo
-*		  correo@pedroruizhidalgo.es
-*         @pedroruizhidalg
-*
-*		  Coding the world since 1983!
-*
-* Location: server/controllers/product.controller
-*
-* Created:  7 Aug 2018
-*
-*
-* Description:
-*
-* Requirements:
+* @author Gopesh Kumar jangid
 *
 * @package
 * @property

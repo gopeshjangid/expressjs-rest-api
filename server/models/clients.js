@@ -1,18 +1,7 @@
 /**
 * Name: clients
 *
-* @author Pedro Ruiz Hidalgo
-*		  correo@pedroruizhidalgo.es
-*         @pedroruizhidalg
-*
-*		  Coding the world since 1983!
-*
-* Location: server/models/clients
-*
-* Created:  8 Aug 2018
-*
-*
-* Description: Clients data model
+* @author Gopesh Kumar jangid
 *
 * Requirements: mongoose
 *

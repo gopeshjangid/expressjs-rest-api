@@ -1,23 +1,13 @@
 /**
 * Name: database
-*
-* @author Pedro Ruiz Hidalgo
-*		  correo@pedroruizhidalgo.es
-*         @pedroruizhidalg
-*
-*		  Coding the world since 1983!
-*
+*@Author Gopesh Kumar jangid
+
 * Location: server/database
-*
-* Created:  7 Aug 2018
-*
 *
 * Description: mongo database connection
 *
 * Requirements: monggose
 *
-* @package commerce
-* @property
 *
 * @version 1.0
 */

@@ -1,18 +1,8 @@
 /**
 * Name: clients.routes
 *
-* @author Pedro Ruiz Hidalgo
-*		  correo@pedroruizhidalgo.es
-*         @pedroruizhidalg
-*
-*		  Coding the world since 1983!
-*
-* Location: server/routes/clients.routes
-*
-* Created:  8 Aug 2018
-*
-*
-* Description: routes for clients
+* @author Gopesh Kumar jangid
+
 *
 * Requirements: express
 *

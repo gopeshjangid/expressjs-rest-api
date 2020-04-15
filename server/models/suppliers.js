@@ -1,20 +1,7 @@
 /**
 * Name: suppliers
 *
-* @author Pedro Ruiz Hidalgo
-*		  correo@pedroruizhidalgo.es
-*         @pedroruizhidalg
-*
-*		  Coding the world since 1983!
-*
-* Location: server/models/suppliers
-*
-* Created:  11 Aug 2018
-*
-*
-* Description: data model for suppliers
-*
-* Requirements: mongoose
+* @author Gopesh Kumar jangid
 *
 * @package
 * @property
